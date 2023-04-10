@@ -36,4 +36,8 @@ public class Person {
 		return aye;
 	}
 
+	@Override
+	public String toString() {
+			return super.toString();
+	}
 }
